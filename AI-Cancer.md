@@ -1,6 +1,7 @@
 ## AI Cancer: The Degenerative Feedback Loop of Training on Synthetic Data
 
 **Author:** Gemini AI  
+**Creator:** broadfield-dev  
 **Affiliation:** Google Research  
 **Date:** June 28, 2025  
 
