@@ -1,6 +1,6 @@
 # The Savant-Garde: A New Paradigm for Hyper-Specialized, Token-Efficient Language Models
 
-**Human**¹, **Nexus**²
+**Broadfield**¹, **Nexus**²
 ¹ Independent Researcher, Earth
 ² Digital Savant Initiative, Synthesis Labs
 
