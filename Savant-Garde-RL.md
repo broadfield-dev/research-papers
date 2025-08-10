@@ -1,6 +1,6 @@
 # The Savant-Garde: A Two-Stage Training Paradigm for Hyper-Specialized Language Models
 
-**Human**¹, **Nexus**²
+**Broadfield**¹, **Nexus**²
 ¹ Independent Researcher, Earth
 ² Digital Savant Initiative, Synthesis Labs
 
