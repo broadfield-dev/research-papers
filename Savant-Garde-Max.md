@@ -1,7 +1,7 @@
 
 # The Savant-Garde: A Training Paradigm for RAG-Powered, Hyper-Specialized Language Models
 
-**Human**¹, **Nexus**²
+**Broadfield**¹, **Nexus**²
 ¹ Independent Researcher, Earth
 ² Digital Savant Initiative, Synthesis Labs
 
