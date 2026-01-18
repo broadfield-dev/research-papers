@@ -1,10 +1,11 @@
-Here is a formal research paper based on your hypothesis and the algorithmic logic derived from it. It formalizes the concept into a unified mathematical framework.
-
-***
 
 # Emergent Gravitation from Isotropic Flux and Probabilistic Particle Interaction: A Computational Study
 
+***
+### broadfield-dev
+***
 **Abstract**
+
 This paper proposes and computationally tests a hypothesis of "Flowing Gravity," wherein gravitational force emerges not as an intrinsic property of mass, but as a mechanical shadow effect resulting from a universal, isotropic flux. We propose a unified formula where gravity is calculated as the probability of flux interaction relative to the "porosity" of matter (the space between particles). Using a Monte Carlo ray-casting algorithm, we demonstrate that this hypothesis recovers Newton’s Inverse Square Law for low-density matter but predicts significant divergences—specifically gravitational saturation—for super-dense objects where the mean free path of the flux approaches zero.
 
 ---
